@@ -9,7 +9,7 @@
 
 ### About
 
-If you have decided to accept the #100DaysOfCompetitiveCoding challenge, congratulations! You, just like me, have committed to work on Competitive Coding for 100Days. 
+If you have decided to accept the #100DaysOfCompetitiveCode challenge, congratulations! You, just like me, have committed to work on Competitive Coding for 100Days. 
 
 Competitive Coding mainly involves solving questions by giving your algorithm in a particlular value. It can done online through websites specially dedicated to them such as HackerRank, HackerEarth, CodeChef, or by yourself - by picking a problem you find interesting and finding a solution to it.
 
